@@ -129,6 +129,7 @@ color: #404bbf;
 .team-name{
 display: flex;
 gap: 24px;
+flex-wrap: wrap;
 }
 .strategy{
     color: #2e2f42;
